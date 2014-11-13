@@ -1,1 +1,3 @@
 Test file 2
+
+Git is free software.
